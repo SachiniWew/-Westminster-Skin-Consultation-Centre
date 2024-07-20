@@ -1,0 +1,78 @@
+Name             : Pasindu , Geevinda
+Mobile Number    : 0786201390   || DOB    : 2022-11-18
+Address          : 151 / A / 28, Diwelwatta, Kaduruduwa, Wanchawela , Galle
+Note         : null
+Date         : 19-11-2022 01-56
+Hours        : 1
+Doctor Medical License  : 71939
+Specialisation Number   : 7
+Appointment ID          : 1
+
+
+Name             : Tharu , Amasha
+Mobile Number    : 0783023291   || DOB    : 2001-04-10
+Address          : eve
+Note         : na mkth
+Date         : 28-01-2023 00-25
+Hours        : 2
+Doctor Medical License  : 291956
+Specialisation Number   : 5
+Appointment ID          : 2
+
+
+Name             : Hello , Buys
+Mobile Number    : 0879627120   || DOB    : 2005-11-18
+Address          : null
+Note         : null
+Date         : 19-11-2022 09-54
+Hours        : 1
+Doctor Medical License  : 291956
+Specialisation Number   : 5
+Appointment ID          : 3
+
+
+Name             : Suchi , Wewalwala
+Mobile Number    : 0987263720   || DOB    : 2001-10-20
+Address          : null
+Note         : null
+Date         : 19-11-2022 10-54
+Hours        : 2
+Doctor Medical License  : 291956
+Specialisation Number   : 5
+Appointment ID          : 4
+
+
+Name             : Kusal , Mendis
+Mobile Number    : 2143798100   || DOB    : 2000-11-18
+Address          : null
+Note         : null
+Date         : 19-11-2022 08-54
+Hours        : 1
+Doctor Medical License  : 769181
+Specialisation Number   : 2
+Appointment ID          : 5
+
+
+Name             : Pasindu , Geevinda
+Mobile Number    : 0786201390   || DOB    : 2022-11-18
+Address          : 151 / A / 28, Diwelwatta, Kaduruduwa, Wanchawela , Galle
+Note         : null
+Date         : 19-11-2022 10-01
+Hours        : 1
+Doctor Medical License  : 893976
+Specialisation Number   : 5
+Appointment ID          : 6
+
+
+Name             : Hal , Paruwa
+Mobile Number    : 0798719381   || DOB    : 2005-02-19
+Address          : null
+Note         : null
+Date         : 19-11-2022 10-11
+Hours        : 1
+Doctor Medical License  : 777549
+Specialisation Number   : 5
+Appointment ID          : 7
+
+
+stop

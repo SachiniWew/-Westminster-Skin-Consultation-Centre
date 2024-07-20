@@ -1,0 +1,73 @@
+Medical licence number: 5678
+Name                  : Nalin , Rajapaksha
+Mobile Number         : 0705674321
+Date Of Birth         : 1974-09-02
+Address               : 144/9A,Broadway,Dehiwala
+Specialisation Number : 7
+
+
+Medical licence number: 22389
+Name                  : Samadhi , Wewalwala
+Mobile Number         : 0725989352
+Date Of Birth         : 1994-10-14
+Address               : No,09,Kahagolla,Diyatalwa
+Specialisation Number : 4
+
+
+Medical licence number: 8736
+Name                  : Ahinsa , Wewalwala
+Mobile Number         : 0704567321
+Date Of Birth         : 1980-03-12
+Address               : NO,87,Senanayaka Mawatha,Wallawaththa
+Specialisation Number : 15
+
+
+Medical licence number: 3874
+Name                  : Nuwan , Gunathilaka
+Mobile Number         : 0719867234
+Date Of Birth         : 1979-08-30
+Address               : 167/9G,Kawudan,Dehiwala
+Specialisation Number : 6
+
+
+Medical licence number: 768
+Name                  : Nuwan , Kumara
+Mobile Number         : 0711235567
+Date Of Birth         : 1976-09-13
+Address               : 189/9,Wijaya mawatha,Ragama
+Specialisation Number : 5
+
+
+Medical licence number: 76894
+Name                  : Awanthi , Rajapaksha
+Mobile Number         : 0701234567
+Date Of Birth         : 1980-09-23
+Address               : No,67,kawudana,dehiwala
+Specialisation Number : 11
+
+
+Medical licence number: 463785
+Name                  : Dinujaya , Gonalagoda
+Mobile Number         : 0706024344
+Date Of Birth         : 1970-02-12
+Address               : No,08,Kawudana,Dehiwala
+Specialisation Number : 19
+
+
+Medical licence number: 364387
+Name                  : Amasha , Amarasingha
+Mobile Number         : 0709967231
+Date Of Birth         : 1970-03-17
+Address               : No,89,Wasalawatta,Kottawa
+Specialisation Number : 15
+
+
+Medical licence number: 37428374
+Name                  : Ruwan , Pathirana
+Mobile Number         : 0701234567
+Date Of Birth         : 1988-12-24
+Address               : 67/12
+Specialisation Number : 10
+
+
+stop

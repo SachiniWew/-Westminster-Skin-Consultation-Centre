@@ -1,0 +1,17 @@
+Name             : Sachini , Wewalwala
+Mobile Number    : 0701533987
+Date Of Birth   : 2001-02-17
+Address          : No,09,Kahagolla,Diyatalwa
+Password         : 123
+Username         : SW
+
+
+Name             : Samadhi , Wewalwala
+Mobile Number    : 0987654321
+Date Of Birth   : 2001-09-09
+Address          : No,kahagshhs
+Password         : 123
+Username         : SamadhiWewalwala
+
+
+stop
